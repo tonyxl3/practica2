@@ -1,0 +1,12 @@
+body{
+	background-color: lemonchiffon;
+	color: aliceblue;
+}
+#barra a {
+	text-decoration: none;
+	color: darkorange;
+}
+#contenido a: hover{
+	text-decoration: underline;
+	color: black;
+}
